@@ -1,2 +1,13 @@
 PyPDF2
 python-docx
+google-generativeai 
+langchain-google-genai
+streamlit
+requests
+beautifulsoup4
+langchain
+faiss-cpu
+langchain-community
+tiktoken
+python-dotenv
+python-magic
